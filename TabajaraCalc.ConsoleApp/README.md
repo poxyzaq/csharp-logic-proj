@@ -1,8 +1,8 @@
 # TabajaraCalc
 
-
-https://github.com/user-attachments/assets/4208142d-0361-48cc-99b8-7acec7dda633
 *Demo: Calculator running*
+
+https://github.com/user-attachments/assets/b144d6c0-d7f4-4491-a873-d46bcba1c3b3
 
 
 ## Project
