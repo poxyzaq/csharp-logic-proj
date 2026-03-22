@@ -2,6 +2,10 @@
 
 ![A calculator that runs in the terminal](https://github.com/user-attachments/assets/de10b6d2-c1fe-402c-b170-a9f23829cf03)
 
+
+https://github.com/user-attachments/assets/5f9a2768-2ba1-4a53-b5c9-151c8f103ccf
+
+
 ## Project
 
 Developed during the Back-End course at [Academia do Programador](https://www.academiadoprogramador.net) 2026
