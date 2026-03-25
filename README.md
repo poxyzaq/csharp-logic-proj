@@ -6,8 +6,10 @@ Projects and developed during the **Academia do Programador (ADP) back-end ** co
 
 ## 📁 Projects
 
-### 🧮 tabajara-calculater.ConsoleApp
-A console-based calculator application. Supports basic arithmetic operations through a simple command-line interface.
+### 🧮 tabajara-calculator.ConsoleApp
+A console-based calculator application.
+
+Each project contains its own `README.md` with more detailed information about its purpose and usage.
 
 ---
 
