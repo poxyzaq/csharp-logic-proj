@@ -52,8 +52,8 @@ The projects are organized under a single solution file:
 
 ```
 # Clone the repository
-git clone https://github.com/poxyzaq/prog-logic-adp-backend.git
-cd prog-logic-adp-backend
+git clone https://github.com/poxyzaq/csharp-logic-proj.git
+cd csharp-logic-proj
 
 # Restore dependencies
 dotnet restore
