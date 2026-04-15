@@ -16,13 +16,17 @@ A console-based calculator application.
 
 A console-based number guessing game.
 
+### 🎲 dice-race-game.ConsoleApp
+
+A console-based turn-based dice racing game against the CPU.
+
 ---
 
 ## 🗂️ Solution
 
 The projects are organized under a single solution file:
 
-- `prog_logic.slnx` — the main solution file that groups all projects together.
+* `prog_logic.slnx` — the main solution file that groups all projects together.
 
 ---
 
@@ -36,17 +40,17 @@ The projects are organized under a single solution file:
 | `v2` | Second iteration of features |
 | `v3` | Ongoing development |
 
-
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- [.NET SDK](https://dotnet.microsoft.com/download) 10.0
+* [.NET SDK](https://dotnet.microsoft.com/download) 10.0
 
 ### Running a project
-```bash
+
+```
 # Clone the repository
 git clone https://github.com/poxyzaq/prog-logic-adp-backend.git
 cd prog-logic-adp-backend
@@ -57,15 +61,16 @@ dotnet restore
 # Run a project
 dotnet run --project tabajara-calculator.ConsoleApp
 dotnet run --project guessing-game.ConsoleApp
+dotnet run --project dice-race-game.ConsoleApp
 ```
 
 ---
 
 ## 🛠️ Built With
 
-- **C#** — primary language
-- **.NET** — runtime and SDK
-- **Helix** — text editor
+* **C#** — primary language
+* **.NET** — runtime and SDK
+* **Helix** — text editor
 
 ---
 
