@@ -16,7 +16,7 @@ A console-based Hangman game featuring a rich vocabulary of exotic Brazilian fru
 
 ## 🚀 How to Use
 
-Program usage is described on the project root folder README.md
+Program usage is described on the [project root folder README.md](https://github.com/poxyzaq/prog-logic-adp-backend?tab=readme-ov-file#-getting-started)
 
 ## Requirements
 
