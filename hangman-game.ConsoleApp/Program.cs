@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography;
+﻿
+using System.Security.Cryptography;
 
 namespace hangman_game;
 
@@ -152,7 +153,7 @@ class Program
             }
 
             Console.Write("Enter a letter: ");
-            char guess = Convert.ToChar(Console.ReadLine());
+            char guess = Convert.ToChar(Console.ReadLine().ToUpper());
 
             bool letterFound = false;
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hangman-game.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5949a5da0fe424c6adfcf6664e1f49676f3c9cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef4fd26a7fc1b4b1abb88df85752e58d47f8345")]
 [assembly: System.Reflection.AssemblyProductAttribute("hangman-game.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hangman-game.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
