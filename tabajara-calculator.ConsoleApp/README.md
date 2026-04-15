@@ -1,24 +1,79 @@
-# Tabajara Calculator
+# csharp-logic-proj
 
-*Demo: Calculator running*
+Projects developed during the **Academia do Programador (ADP) back-end** course — a programming training program covering fundamentals all the way to professional practice.
 
-https://github.com/user-attachments/assets/b144d6c0-d7f4-4491-a873-d46bcba1c3b3
-
-
-## Introduction
- 
-A simple yet powerful console calculator that allows you to perform the four basic math operations, as well as view the operation history and multiplication tables.
- 
 ---
- 
-## ✨ Features
- 
-- **Basic Operations:** Easily perform additions, subtractions, multiplications, and divisions.
-- **Multiplication Table:** The calculator can generate the multiplication table of a given number up to another given number (which will be the multiplier).
-- **Operation History:** The calculator can store in memory a history of previous operations.
- 
+
+## 📁 Projects
+
+Each project contains its own `README.md` with more detailed information.
+
+### 🧮 tabajara-calculator.ConsoleApp
+
+A console-based calculator application.
+
+### 🎮 guessing-game.ConsoleApp
+
+A console-based number guessing game.
+
+### 🎲 dice-race-game.ConsoleApp
+
+A console-based turn-based dice racing game against the CPU.
+
 ---
- 
-## 🚀 How to Use
- 
-Program usage is described on the [project root folder README.md](https://github.com/poxyzaq/prog-logic-adp-backend?tab=readme-ov-file#-getting-started)
+
+## 🗂️ Solution
+
+The projects are organized under a single solution file:
+
+* `prog_logic.slnx` — the main solution file that groups all projects together.
+
+---
+
+## 🌿 Branches
+
+| Branch | Description |
+| --- | --- |
+| `main` | Stable, production-ready code |
+| `v0` | Initial version / early experiments |
+| `v1` | First iteration of features |
+| `v2` | Second iteration of features |
+| `v3` | Ongoing development |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* [.NET SDK](https://dotnet.microsoft.com/download) 10.0
+
+### Running a project
+
+```
+# Clone the repository
+git clone https://github.com/poxyzaq/csharp-logic-proj.git
+cd csharp-logic-proj
+
+# Restore dependencies
+dotnet restore
+
+# Run a project
+dotnet run --project tabajara-calculator.ConsoleApp
+dotnet run --project guessing-game.ConsoleApp
+dotnet run --project dice-race-game.ConsoleApp
+```
+
+---
+
+## 🛠️ Built With
+
+* **C#** — primary language
+* **.NET** — runtime and SDK
+* **Helix** — text editor
+
+---
+
+## 🎓 About
+
+This repository is part of the **Academia do Programador** course curriculum — a complete professional software development training program available in-person and online in Brazil.
