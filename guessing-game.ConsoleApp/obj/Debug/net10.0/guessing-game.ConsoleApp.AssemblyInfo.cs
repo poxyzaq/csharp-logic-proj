@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guessing-game.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5949a5da0fe424c6adfcf6664e1f49676f3c9cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+862a9831f7fc5142798f685b3d676ad1ad697105")]
 [assembly: System.Reflection.AssemblyProductAttribute("guessing-game.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guessing-game.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
