@@ -2,6 +2,7 @@
 
 *Demo: Guessing game running*
 
+<<<<<<< HEAD
 
 
 https://github.com/user-attachments/assets/89bf3970-559c-45ca-9478-23899a11e325
@@ -9,6 +10,11 @@ https://github.com/user-attachments/assets/89bf3970-559c-45ca-9478-23899a11e325
 
 
 
+=======
+https://github.com/user-attachments/assets/89bf3970-559c-45ca-9478-23899a11e325
+
+
+>>>>>>> v3
 ## Introduction
 
 A console-based number guessing game where you try to figure out a secret random number within a limited number of attempts. Choose your difficulty, use the hints, and protect your score.
